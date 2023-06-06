@@ -35,4 +35,13 @@ export default [
       { answerText: 7, isCorrect: true },
     ],
   },
+  {
+    questionText: "React is a?",
+    answerOptions: [
+      { answerText: "Library", isCorrect: true },
+      { answerText: "Framework", isCorrect: false },
+      { answerText: "Both", isCorrect: false },
+      { answerText: "None", isCorrect: true },
+    ],
+  },
 ];
